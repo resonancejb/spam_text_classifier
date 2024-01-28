@@ -13,3 +13,5 @@ Accuracy: 97.29%
 
 Precision: 100%
 
+
+![image](https://github.com/resonancejb/spam_text_classifier/assets/105265132/0bfbce18-0aa1-4bba-aebc-35ed1f94e396)
